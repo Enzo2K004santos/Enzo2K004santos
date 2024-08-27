@@ -13,4 +13,4 @@
 
 - insta enzo_._santos la pode entrar em contato comigo 📱
 
-[![[Enzo2K004santos GitHub stats](https://github-readme-stats.vercel.app/api?username=[Enzo2K004santos)](https://github.com/[Enzo2K004santos&show_icons=true&theme=gruvbox)
+[![[Enzo2K004santos GitHub stats](https://github-readme-stats.vercel.app/api?username=[Enzo2K004santos&show_icons=true&theme=gruvbox)](https://github.com/[Enzo2K004santos/github-readme-stats)
